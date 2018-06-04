@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('admin.layout')
 @section('title','Plantilla General')
 @section('content')
     <h2>Bienvenido</h2>
